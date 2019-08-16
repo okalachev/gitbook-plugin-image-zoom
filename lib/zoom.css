@@ -12,6 +12,10 @@
 	transition: opacity 0.2s;
 }
 
+.zoom-overlay.black {
+	background: #1c1f2b;
+}
+
 body.zoom-zoomed .zoom-overlay {
 	filter: "alpha(opacity=100)";
 	opacity: 1;
