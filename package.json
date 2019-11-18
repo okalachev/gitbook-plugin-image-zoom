@@ -2,7 +2,7 @@
     "name": "gitbook-plugin-image-zoom",
     "description": "GitBook plugin for zooming images",
     "main": "index.js",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "gitbook": "*"
     },
